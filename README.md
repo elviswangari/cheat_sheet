@@ -1,4 +1,4 @@
-# MD cheaT sheet
+# MD cheat sheet
 <!-- Headings -->
 # Heading 1
 ## Heading 2
