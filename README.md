@@ -1,29 +1,29 @@
 # MD cheat sheet
 <!-- Headings -->
-# Heading 1
+# Heading 1 (1 hashsign)
 ## Heading 2
 ### Heading 3
 #### Heading 4
 ##### Heading 5
-###### Heading 6
+###### Heading 6(6 hashsigns)
 
 <!-- Italics -->
-*This text* is italic
+*This text* is italic (use star on each side of the text)
 
-_This text_ is italic
+_This text_ is italic(use underscore on each side of the text)
 
 <!-- Strong -->
-**This text** is italic
+**This text** is italic (use double star on each side of the text)
 
-__This text__ is italic
+__This text__ is italic (use double underscore on each side of the text)
 
 <!-- Strikethrough -->
-~~This text~~ is strikethrough
+~~This text~~ is strikethrough (use double ~ on each side of the text)
 
 <!-- Horizontal Rule -->
 
----
-___
+--- (use triple hyphen for dotted horizonttal rule)
+___ (use triple underscore for horizonttal rule)
 
 <!-- Blockquote -->
 > This is a quote
